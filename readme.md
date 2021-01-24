@@ -1,24 +1,11 @@
+# LifeCare
 
+LifeCare is a web application for managing a hospital.
 
-## Description
+## Informations 
+- Status :  under development
+- Latest version :  1.0
+- Sector: medical
+- Created: November 2020
+- Last updated: November 2020
 
-simple employee management system 
-
-## Demo
-https://simple-employee-man.herokuapp.com/list
-
-  
-## Screenshots
-<p align="center">
-
-![enter image description here](employee-management.JPG)
-
-</p>
-
-## Source code
-https://github.com/aniskchaou/EMPLOYEE-MANAGEMENT-NODEJS 
-  
-
-## Technologies
-
-Node Js, Express, Node-postgres, Express-handlebars
